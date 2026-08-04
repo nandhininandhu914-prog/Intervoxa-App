@@ -143,7 +143,6 @@ After successful login:
 
 ---
 
----
 
 ## Application Workflow
 
