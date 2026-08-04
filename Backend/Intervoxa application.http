@@ -1,0 +1,6 @@
+@Intervoxa_application_HostAddress = http://localhost:5216
+
+GET {{Intervoxa_application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
